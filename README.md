@@ -56,34 +56,6 @@ I enjoy working on **async processing, message queues, and system design**, with
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔔 NotifyService — Scalable Notification System
-**Node.js • TypeScript • Redis • BullMQ**
-
-- Event-driven notification system with async workers
-- Queue-based architecture with retries, backoff, and failure handling
-- Designed to support email, in-app, and push notifications
-- Focus on reliability, scalability, and clean backend design
-
-🔗 **Repository:**  
-https://github.com/amanraval76593/NotifyService
-
----
-
-### 🏥 MedSync — Centralized Medical Records Platform
-**React • Django • PostgreSQL**
-
-- Multi-role system: Patient, Doctor, Hospital
-- Centralized longitudinal medical records across hospitals
-- Diagnosis tracking across multiple visits and doctors
-- Built to improve treatment continuity and data accessibility
-
-🔗 **Repository:**  
-https://github.com/amanraval76593/MedSync
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
