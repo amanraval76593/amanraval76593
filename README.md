@@ -100,5 +100,5 @@ https://github.com/amanraval76593/MedSync
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: <em>(add your LinkedIn URL)</em>
-- 📧 Email: <em>(add your email)</em>
+- 💼 LinkedIn: 
+- 📧 Email:
