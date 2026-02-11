@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aman 👋</h1>
 <p align="center">
   <b>Backend Engineer • Software Engineer</b><br/>
-  Node.js • TypeScript • Distributed Systems
+  Node.js • TypeScript • Python • AWS • Distributed Systems
 </p>
 
 <p align="center">
