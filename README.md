@@ -72,6 +72,6 @@ I enjoy working on **async processing, message queues, and system design**, with
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/aman-kumar-bb1126291/">
+- 💼 LinkedIn: https://www.linkedin.com/in/aman-kumar-bb1126291
 - 📧 Email:aman76593@gmail.com
   
