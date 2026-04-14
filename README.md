@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aman 👋</h1>
 <p align="center">
   <b>Backend Engineer • Software Engineer</b><br/>
-  Node.js • TypeScript • Python • AWS • Distributed Systems
+  Node.js • TypeScript • Python • Golang • AWS • Distributed Systems 
 </p>
 
 <p align="center">
@@ -26,6 +26,7 @@ I enjoy working on **async processing, message queues, and system design**, with
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
 ---
 
@@ -74,4 +75,3 @@ I enjoy working on **async processing, message queues, and system design**, with
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/aman-kumar-bb1126291
 - 📧 Email:aman76593@gmail.com
-  
